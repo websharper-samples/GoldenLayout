@@ -1,4 +1,4 @@
-# WebSharper GoldenLayout
+# WebSharper GoldenLayout [![Build status](https://ci.appveyor.com/api/projects/status/3jo3hrqs5bhjekkr?svg=true)](https://ci.appveyor.com/project/IntelliFactory/goldenlayout)
 
 Sample for [WebSharper](https://websharper.com) bindings for GoldenLayout.
 
